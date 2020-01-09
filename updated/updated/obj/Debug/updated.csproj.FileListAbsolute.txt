@@ -1,0 +1,7 @@
+C:\Users\1386466\Desktop\updated\updated\bin\Debug\updated.exe.config
+C:\Users\1386466\Desktop\updated\updated\bin\Debug\updated.exe
+C:\Users\1386466\Desktop\updated\updated\bin\Debug\updated.pdb
+C:\Users\1386466\Desktop\updated\updated\obj\Debug\updated.csprojAssemblyReference.cache
+C:\Users\1386466\Desktop\updated\updated\obj\Debug\updated.csproj.CoreCompileInputs.cache
+C:\Users\1386466\Desktop\updated\updated\obj\Debug\updated.exe
+C:\Users\1386466\Desktop\updated\updated\obj\Debug\updated.pdb
